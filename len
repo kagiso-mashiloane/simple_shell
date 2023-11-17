@@ -1,0 +1,11 @@
+trings
+print
+sw_node
+shell_list1.c:110: warning: No description found for parameter or member 'c_node'
+shell_list1.c:111: warning: Excess function parameter 'current_node' description in 'index_node'
+index_noderings
+print
+sw_node
+shell_list1.c:110: warning: No description found for parameter or member 'c_node'
+shell_list1.c:111: warning: Excess function parameter 'current_node' description in 'index_node'
+index_node
